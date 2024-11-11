@@ -98,4 +98,3 @@ This project offers insights into customer distribution, sales performance acros
 
 ---
 
-**Note**: Remember to replace database credentials with your own and adjust queries as per your database schema if different.
